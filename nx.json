@@ -56,7 +56,7 @@
     "typecheck": {
       "inputs": [
         {
-          "runtime": "echo 'Hello 4'"
+          "runtime": "echo 'Hello 5'"
         }
       ]
     }
