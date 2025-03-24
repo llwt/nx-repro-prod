@@ -52,6 +52,13 @@
   "targetDefaults": {
     "test": {
       "dependsOn": ["^build"]
+    },
+    "typecheck": {
+      "inputs": [
+        {
+          "runtime": "echo 'Hello 4'"
+        }
+      ]
     }
   }
 }
